@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "sdjndj",
+    "coordinates": {
+      "x": 12,
+      "y": 12
+    },
+    "creationDate": "2021-09-07T22:42:16.035+03:00[Europe/Moscow]",
+    "oscarsCount": 12,
+    "totalBoxOffice": 12,
+    "genre": "DRAMA",
+    "mpaaRating": "R",
+    "screenwriter": {
+      "name": "lsd;m",
+      "height": 12,
+      "eyeColor": "BLUE",
+      "hairColor": "BLUE",
+      "nationality": "FRANCE"
+    }
+  },
+  {
+    "id": 2,
+    "name": "as",
+    "coordinates": {
+      "x": 12,
+      "y": 12
+    },
+    "creationDate": "2021-09-08T09:45:31.184+03:00[Europe/Moscow]",
+    "oscarsCount": 2,
+    "totalBoxOffice": 12,
+    "genre": "DRAMA",
+    "mpaaRating": "NC_17",
+    "screenwriter": {
+      "name": "mkm",
+      "height": 3,
+      "eyeColor": "YELLOW",
+      "hairColor": "YELLOW",
+      "nationality": "NORTH_KOREA"
+    }
+  },
+  {
+    "id": 3,
+    "name": "ad",
+    "coordinates": {
+      "x": 12,
+      "y": 12
+    },
+    "creationDate": "2021-09-08T10:37:51.325+03:00[Europe/Moscow]",
+    "oscarsCount": 12,
+    "totalBoxOffice": 342,
+    "genre": "THRILLER",
+    "mpaaRating": "G",
+    "screenwriter": {
+      "name": "saa",
+      "height": 12,
+      "eyeColor": "BLACK",
+      "hairColor": "BROWN",
+      "nationality": "FRANCE"
+    }
+  },
+  {
+    "id": 4,
+    "name": "lkcn",
+    "coordinates": {
+      "x": 309248,
+      "y": 3
+    },
+    "creationDate": "2021-09-08T10:55:59.188+03:00[Europe/Moscow]",
+    "oscarsCount": 23,
+    "totalBoxOffice": 123,
+    "genre": "HORROR",
+    "mpaaRating": "NC_17",
+    "screenwriter": {
+      "name": "ocjsbvs",
+      "height": 9846,
+      "eyeColor": "BROWN",
+      "hairColor": "YELLOW",
+      "nationality": "FRANCE"
+    }
+  }
+]
